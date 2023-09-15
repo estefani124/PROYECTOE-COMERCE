@@ -8,6 +8,6 @@ package controlador;
  *
  * @author 21-B0003LA
  */
-public class NewClass {
-    int Data;
+public class NewClass1 {
+    
 }
